@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="Nontapat.jpg" width="80%" style="border-radius: 10px;/>
+      <img src="Nontapat.jpg" width="100%" ;/>
     </td>
   </tr>
 </table>
