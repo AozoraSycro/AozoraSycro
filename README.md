@@ -1,21 +1,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AozoraSycro&label=PROFILE+VIEWS&color=00c853&style=for-the-badge&logo=github" alt="Visitor Count" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Nontapat+Boonsub;Aspiring+Data+Engineer;Building+Data+Pipelines;Exploring+System+Architecture" alt="Typing Animation" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AozoraSycro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00ADD8" alt="GitHub Stats" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AozoraSycro&label=PROFILE+VIEWS&color=00c853&style=for-the-badge&logo=github" alt="Visitor Count" />
   <br><br>
 
   <a href="https://git.io/typing-svg">
