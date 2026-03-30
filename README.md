@@ -5,7 +5,7 @@
     </td>
     <td align="right">
       <a href="README.md"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="English" /></a>
-      <a href="readme.th.md"><img src="https://img.shields.io/badge/Language-Thai-red?style=for-the-badge" alt="ภาษาไทย" /></a>
+      <a href="readme_th.md"><img src="https://img.shields.io/badge/Language-Thai-red?style=for-the-badge" alt="ภาษาไทย" /></a>
     </td>
   </tr>
 </table>
