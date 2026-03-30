@@ -125,21 +125,6 @@
   </tr>
 </table>
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AozoraSycro&theme=tokyonight&margin-w=15&column=7&no-frame=true" alt="Trophies" />
-  </a>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AozoraSycro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00ADD8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AozoraSycro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ### 📞 Let's Connect!
 
 <div align="center">
