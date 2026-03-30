@@ -106,7 +106,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>📟 Vayubal - ระบบเซนเซอร์ IoT สิ่งแวดล้อม</b><br>
+      <b>📟 Sincere - ระบบเซนเซอร์ IoT สิ่งแวดล้อม</b><br>
       <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
       พัฒนาระบบฮาร์ดแวร์แบบ End-to-end โดยใช้ <b>ESP32</b> และเซนเซอร์ ZE08-CH2O เพื่อวัดระดับฟอร์มาลดีไฮด์ในห้องปฏิบัติการกายวิภาคศาสตร์ พร้อมระบบสั่งการแขนกลอัตโนมัติเพื่อระบายอากาศเมื่อค่าเกินมาตรฐาน
     </td>
