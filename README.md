@@ -40,7 +40,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2F%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/MATLAB-D97621?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
@@ -126,9 +126,17 @@
 
 ### 📞 Let's Connect!
 
+- **Email:** [nontapatboonsup@gmail.com](mailto:nontapatboonsup@gmail.com)
+- **University Email:** [661762@hcu.ac.th](mailto:661762@hcu.ac.th)
+- **Line ID:** [oakkykung](line://ti/p/~oakkykung)
+- **University:** [Huachiew Chalermprakiet University](https://www.hcu.ac.th)
 <div align="center">
   <a href="mailto:nontapatboonsup@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+    <a href="line://ti/p/~oakkykung">
+    <img src="https://img.shields.io/badge/Line-06C755?style=for-the-badge&logo=line&logoColor=white" alt="Line" />
+  </a>
+
 
 </div>
