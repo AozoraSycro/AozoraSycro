@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=00c853&style=for-the-badge&logo=github" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=AozoraSycro&label=PROFILE+VIEWS&color=00c853&style=for-the-badge&logo=github" alt="Visitor Count" />
   <br><br>
 
   <a href="https://git.io/typing-svg">
@@ -122,11 +122,11 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&column=7&no-frame=true" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AozoraSycro&theme=tokyonight&margin-w=15&column=7&no-frame=true" alt="Trophies" />
   </a>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00ADD8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AozoraSycro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00ADD8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AozoraSycro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 ---
