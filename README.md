@@ -15,7 +15,14 @@
       <h3>👤 About Me</h3>
       <p>I am a 3rd-year <b>Computer Science</b> student with a strong passion for bridging the gap between physical hardware, software logic, and data-driven systems. I specialize in <b>Data Engineering, IoT, and System Architecture</b>.</p>
       <p>Whether it's engineering autonomous drone algorithms, wiring an ESP32 sensor, designing robust databases, or creating immersive AR experiences, I am highly motivated to turn complex problems into scalable solutions.</p>
-      
+
+    
+  <tr>
+    <table width="100%" border="0">
+    <td width="50%" valign="top">
+      <h3>👤 About Me</h3>
+      <p>I am a 3rd-year <b>Computer Science</b> student with a strong passion for bridging the gap between physical hardware, software logic, and data-driven systems. I specialize in <b>Data Engineering, IoT, and System Architecture</b>.</p>
+      <p>Whether it's engineering autonomous drone algorithms, wiring an ESP32 sensor, designing robust databases, or creating immersive AR experiences, I am highly motivated to turn complex problems into scalable solutions.</p>
       <h3>🎓 Education</h3>
       <ul>
         <li><b>Bachelor of Science in Computer Science</b></li>
@@ -23,9 +30,11 @@
         <li><i>Currently in my 3rd year</i></li>
       </ul>
     </td>
-    <td width="50%" valign="center" align="center">
-      <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="80%" style="border-radius: 10px;"/>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRreWVqZ3Z5Z2Z5Z2Z5Z2Z5Z2Z5Z2Z5Z2Z5Z2Z5Z2Z5Z2Z5Z2Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZA==/qgQUggCGvnkNC/giphy.gif" width="80%" style="border-radius: 10px;" alt="Coding Animation" />
     </td>
+  </tr>
+</table>
   </tr>
 </table>
 
