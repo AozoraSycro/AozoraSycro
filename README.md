@@ -1,6 +1,14 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AozoraSycro&label=PROFILE+VIEWS&color=00c853&style=for-the-badge&logo=github" alt="Visitor Count" />
-  <br><br>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://komarev.com/ghpvc/?username=AozoraSycro&label=PROFILE+VIEWS&color=2eb82e&style=for-the-badge" alt="Visitor Count" />
+    </td>
+    <td align="right">
+      <a href="README.md"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="English" /></a>
+      <a href="readme.th.md"><img src="https://img.shields.io/badge/Language-Thai-red?style=for-the-badge" alt="ภาษาไทย" /></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -134,9 +142,5 @@
   <a href="mailto:nontapatboonsup@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-    <a href="line://ti/p/~oakkykung">
-    <img src="https://img.shields.io/badge/Line-06C755?style=for-the-badge&logo=line&logoColor=white" alt="Line" />
-  </a>
-
-
+    
 </div>
