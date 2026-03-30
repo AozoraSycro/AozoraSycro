@@ -98,10 +98,10 @@
       <a href="https://youtu.be/CXnDO8Qoxrs?si=wJxJVbFlIcGvd_YX" target="_blank"><img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a><br><br>
       ร่วมทำงานเป็นทีมพัฒนาระบบตรวจจับภัยคุกคามแบบ Real-time ด้วย YOLOv8 และ React Dashboard <b>หน้าที่หลักของผม:</b> พัฒนาอัลกอริทึมควบคุมการบินอัตโนมัติด้วย <b>MATLAB</b> เพื่อประมวลผลพิกัด GPS และเข้าสกัดกั้นเป้าหมาย
     </td>
-    <td width="50%" valign="top">
-      <b>📊 Aurora Cha Business Analytics</b><br>
-      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
-      พัฒนา Dashboard สำหรับวิเคราะห์ข้อมูลธุรกิจ (Business Intelligence) ด้วย <b>Power BI</b> นำข้อมูลดิบด้านยอดขายและการดำเนินงานของธุรกิจเครื่องดื่มมาสร้างเป็น Data Visualization เพื่อให้เกิด Insights ที่นำไปใช้ต่อยอดทางธุรกิจได้จริง
+     <td width="50%" valign="top">
+      <b>🛒 ระบบ POS สำหรับร้านขายอุปกรณ์การเรียน</b><br>
+      <a href="https://github.com/AozoraSycro/POS_Store" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
+      พัฒนาระบบ Point of Sale (POS) และระบบจัดการคลังสินค้าแบบ Full-cycle มีการออกแบบ Relational Database เพื่อจัดการข้อมูลสินค้าคงคลังและบันทึกประวัติการทำธุรกรรม (Transaction Data) ได้อย่างมีประสิทธิภาพ
     </td>
   </tr>
   <tr>
@@ -123,9 +123,9 @@
       พัฒนาเกมกระดาน Connect 4 บนเว็บแอปพลิเคชันที่สามารถเล่นได้จริง โดยใช้ <b>HTML, CSS และ Vanilla JavaScript</b> แสดงให้เห็นถึงทักษะด้าน Logic การจัดการ State และ DOM Manipulation
     </td>
     <td width="50%" valign="top">
-      <b>🛒 ระบบ POS สำหรับร้านขายอุปกรณ์การเรียน</b><br>
+      <b>📊 Aurora Cha Business Analytics</b><br>
       <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
-      พัฒนาระบบ Point of Sale (POS) และระบบจัดการคลังสินค้าแบบ Full-cycle มีการออกแบบ Relational Database เพื่อจัดการข้อมูลสินค้าคงคลังและบันทึกประวัติการทำธุรกรรม (Transaction Data) ได้อย่างมีประสิทธิภาพ
+      พัฒนา Dashboard สำหรับวิเคราะห์ข้อมูลธุรกิจ (Business Intelligence) ด้วย <b>Power BI</b> นำข้อมูลดิบด้านยอดขายและการดำเนินงานของธุรกิจเครื่องดื่มมาสร้างเป็น Data Visualization เพื่อให้เกิด Insights ที่นำไปใช้ต่อยอดทางธุรกิจได้จริง
     </td>
   </tr>
 </table>
