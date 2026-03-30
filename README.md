@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRreWVqZ3Z5Z2Z5Z2Z5Z2Z5Z2Z5Z2Z5Z2Z5Z2Z5Z2Z5Z2Z5Z2Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZA==/qgQUggCGvnkNC/giphy.gif](https://github.com/AozoraSycro/AozoraSycro/blob/main/Nontapat.jpg?raw=true)" width="80%" style="border-radius: 10px;/>
+      <img src="Nontapat.jpg" width="80%" style="border-radius: 10px;/>
     </td>
   </tr>
 </table>
