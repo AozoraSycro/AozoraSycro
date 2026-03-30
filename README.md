@@ -92,34 +92,34 @@
       <a href="https://youtu.be/CXnDO8Qoxrs?si=wJxJVbFlIcGvd_YX" target="_blank"><img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a><br><br>
       Collaborated in a team to develop a real-time threat localization system using YOLOv8 and a React dashboard. <b>My Role:</b> Engineered <b>MATLAB</b> autonomous flight algorithms to process live GPS telemetry and intercept targets.
     </td>
-    <td width="50%" valign="top">
-      <b>📊 Aurora Cha Business Analytics</b><br><br>
-      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> 
-      Developed an interactive data visualization dashboard using <b>Power BI</b> to analyze sales and operational data for a beverage business concept, transforming raw data into actionable business intelligence.
+      <td width="50%" valign="top">
+      <b>🛒 POS Store System</b><br>
+      <a href="https://github.com/AozoraSycro/POS_Store" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
+      Developed a full-cycle Point of Sale (POS) and inventory management system customized for a school supply store. Designed the relational database to handle product inventory and track transaction data efficiently.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>📟 Sincere - IoT Environmental Sensor</b><br><br>
-      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> 
+      <b>📟 Sincere - IoT Environmental Sensor</b><br>
+      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
       An end-to-end hardware system using <b>ESP32</b> and ZE08-CH2O sensors to measure formaldehyde levels. Features automated ventilation control via a robotic arm, bridging raw hardware data with system response.
     </td>
     <td width="50%" valign="top">
-      <b>🌍 3D AR Globe for Education</b><br><br>
-      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> 
+      <b>🌍 3D AR Globe for Education</b><br>
+      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
       Developed an interactive Augmented Reality (AR) application using <b>Unity 3D</b> and C#. Designed to enhance learning experiences by visualizing geographical and educational data in an immersive 3D space.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>🎮 Interactive Connect 4 Web Game</b><br><br>
-      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> 
+      <b>🎮 Interactive Connect 4 Web Game</b><br>
+      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
       Built a fully functional, responsive web-based Connect 4 game utilizing <b>HTML, CSS, and Vanilla JavaScript</b>. Showcases strong logic implementation, state management, and DOM manipulation.
     </td>
-    <td width="50%" valign="top">
-      <b>🛒 School Supply Store POS System</b><br><br>
-      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> 
-      Developed a full-cycle Point of Sale (POS) and inventory management system customized for a school supply store. Designed the relational database to handle product inventory and track transaction data efficiently.
+  <td width="50%" valign="top">
+      <b>📊 Aurora Cha Business Analytics</b><br>
+      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
+      Developed an interactive data visualization dashboard using <b>Power BI</b> to analyze sales and operational data for a beverage business concept, transforming raw data into actionable business intelligence.
     </td>
   </tr>
 </table>
@@ -127,10 +127,8 @@
 ### 📞 Let's Connect!
 
 <div align="center">
-  <a href="mailto:[ใส่ Email ของคุณ]">
+  <a href="mailto:nontapatboonsup@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[ใส่ลิงก์ LinkedIn ของคุณ]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
 </div>
