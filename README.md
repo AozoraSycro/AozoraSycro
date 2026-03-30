@@ -2,9 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=AozoraSycro&label=PROFILE+VIEWS&color=00c853&style=for-the-badge&logo=github" alt="Visitor Count" />
   <br><br>
 
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Nontapat+Boonsub+👋;Aspiring+Data+Engineer+|+Tech+Enthusiast;Building+Data+Pipelines+%26+Smart+Hardware;Exploring+AR,+BI,+%26+System+Architecture" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=The+Show+must+go+on." alt="Typing Animation" />
   </a>
+  </p>
 </div>
 
 ---
@@ -92,26 +94,31 @@
     </td>
     <td width="50%" valign="top">
       <b>📊 Aurora Cha Business Analytics</b><br><br>
+      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> 
       Developed an interactive data visualization dashboard using <b>Power BI</b> to analyze sales and operational data for a beverage business concept, transforming raw data into actionable business intelligence.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>📟 Vayubal - IoT Environmental Sensor</b><br><br>
+      <b>📟 Sincere - IoT Environmental Sensor</b><br><br>
+      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> 
       An end-to-end hardware system using <b>ESP32</b> and ZE08-CH2O sensors to measure formaldehyde levels. Features automated ventilation control via a robotic arm, bridging raw hardware data with system response.
     </td>
     <td width="50%" valign="top">
       <b>🌍 3D AR Globe for Education</b><br><br>
+      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> 
       Developed an interactive Augmented Reality (AR) application using <b>Unity 3D</b> and C#. Designed to enhance learning experiences by visualizing geographical and educational data in an immersive 3D space.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b>🎮 Interactive Connect 4 Web Game</b><br><br>
+      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> 
       Built a fully functional, responsive web-based Connect 4 game utilizing <b>HTML, CSS, and Vanilla JavaScript</b>. Showcases strong logic implementation, state management, and DOM manipulation.
     </td>
     <td width="50%" valign="top">
       <b>🛒 School Supply Store POS System</b><br><br>
+      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> 
       Developed a full-cycle Point of Sale (POS) and inventory management system customized for a school supply store. Designed the relational database to handle product inventory and track transaction data efficiently.
     </td>
   </tr>
