@@ -9,14 +9,6 @@
 
 ---
 
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👤 About Me</h3>
-      <p>I am a 3rd-year <b>Computer Science</b> student with a strong passion for bridging the gap between physical hardware, software logic, and data-driven systems. I specialize in <b>Data Engineering, IoT, and System Architecture</b>.</p>
-      <p>Whether it's engineering autonomous drone algorithms, wiring an ESP32 sensor, designing robust databases, or creating immersive AR experiences, I am highly motivated to turn complex problems into scalable solutions.</p>
-
-    
   <tr>
     <table width="100%" border="0">
     <td width="50%" valign="top">
