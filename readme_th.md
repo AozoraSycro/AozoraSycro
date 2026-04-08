@@ -138,7 +138,11 @@
 - **Line ID:** [oakkykung](line://ti/p/~oakkykung)
 - **University:** [Huachiew Chalermprakiet University](https://www.hcu.ac.th)
 <div align="center">
-  <a href="mailto:[ใส่ Email ของคุณ]">
+  <br>
+  <a href="https://aozorasycro.github.io/Portfolio/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Web_Portfolio-00ADD8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Portfolio" />
+  </a>
+  <a href="mailto:nontapatboonsup@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
