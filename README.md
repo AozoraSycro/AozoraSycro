@@ -104,7 +104,7 @@
       Collaborated in a team to develop a real-time threat localization system using YOLOv8 and a React dashboard. <b>My Role:</b> Engineered <b>MATLAB</b> autonomous flight algorithms to process live GPS telemetry and intercept targets.
     </td>
       <td width="50%" valign="top">
-      <b>🛒 POS Store System</b><br>
+      <b>🛒 LearnVentoryHub_System</b><br>
       <a href="https://github.com/AozoraSycro/POS_Store" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
       Developed a full-cycle Point of Sale (POS) and inventory management system customized for a school supply store. Designed the relational database to handle product inventory and track transaction data efficiently.
     </td>
