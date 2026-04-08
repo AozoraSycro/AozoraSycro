@@ -1,4 +1,4 @@
-<table width="100%">
+<table width="100%" style="border: none;">
   <tr>
     <td align="left">
       <img src="https://komarev.com/ghpvc/?username=AozoraSycro&label=PROFILE+VIEWS&color=2eb82e&style=for-the-badge" alt="Visitor Count" />
@@ -14,13 +14,18 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=800&lines=The+Show+must+go+on." alt="Typing Animation" />
   </a>
-  </p>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://aozorasycro.github.io/Portfolio/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_View_My_Web_Portfolio-00ADD8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Portfolio" />
+  </a>
+</p>
 
 ---
 
+<table width="100%" border="0">
   <tr>
-    <table width="100%" border="0">
     <td width="50%" valign="top">
       <h3>👤 About Me</h3>
       <p>I am a 3rd-year <b>Computer Science</b> student with a strong passion for bridging the gap between physical hardware, software logic, and data-driven systems. I specialize in <b>Data Engineering, IoT, and System Architecture</b>.</p>
@@ -33,10 +38,8 @@
       </ul>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="Nontapat.jpg" width="100%" ;/>
+      <img src="Nontapat.jpg" width="100%" alt="Nontapat" />
     </td>
-  </tr>
-</table>
   </tr>
 </table>
 
@@ -132,15 +135,21 @@
   </tr>
 </table>
 
+---
+
 ### 📞 Let's Connect!
 
 - **Email:** [nontapatboonsup@gmail.com](mailto:nontapatboonsup@gmail.com)
 - **University Email:** [661762@hcu.ac.th](mailto:661762@hcu.ac.th)
 - **Line ID:** [oakkykung](line://ti/p/~oakkykung)
 - **University:** [Huachiew Chalermprakiet University](https://www.hcu.ac.th)
+
 <div align="center">
+  <br>
+  <a href="https://aozorasycro.github.io/Portfolio/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/Web_Portfolio-00ADD8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Portfolio" />
+  </a>
   <a href="mailto:nontapatboonsup@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-    
 </div>
