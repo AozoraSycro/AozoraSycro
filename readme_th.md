@@ -122,14 +122,14 @@
     </td>
     <td width="50%" valign="top">
       <b>🌍 3D AR Globe for Education</b><br>
-      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
+      <a href="https://github.com/AozoraSycro/AR_Globe.git" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
       พัฒนาแอปพลิเคชัน Augmented Reality (AR) สามมิติแบบ Interactive ด้วย <b>Unity 3D</b> และภาษา C# เพื่อยกระดับประสบการณ์การเรียนรู้ โดยนำเสนอข้อมูลทางภูมิศาสตร์ในรูปแบบ 3D Space
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b>🎮 Interactive Connect 4 Web Game</b><br>
-      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
+      <a href="https://github.com/AozoraSycro/Connect4-on-WEB.git" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
       พัฒนาเกมกระดาน Connect 4 บนเว็บแอปพลิเคชันที่สามารถเล่นได้จริง โดยใช้ <b>HTML, CSS และ Vanilla JavaScript</b> แสดงให้เห็นถึงทักษะด้าน Logic การจัดการ State และ DOM Manipulation
     </td>
     <td width="50%" valign="top">
