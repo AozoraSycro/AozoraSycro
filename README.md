@@ -117,14 +117,14 @@
     </td>
     <td width="50%" valign="top">
       <b>🌍 3D AR Globe for Education</b><br>
-      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
+      <a href="https://github.com/AozoraSycro/AR_Globe.git" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
       Developed an interactive Augmented Reality (AR) application using <b>Unity 3D</b> and C#. Designed to enhance learning experiences by visualizing geographical and educational data in an immersive 3D space.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b>🎮 Interactive Connect 4 Web Game</b><br>
-      <a href="" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
+      <a href="https://github.com/AozoraSycro/Connect4-on-WEB.git" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
       Built a fully functional, responsive web-based Connect 4 game utilizing <b>HTML, CSS, and Vanilla JavaScript</b>. Showcases strong logic implementation, state management, and DOM manipulation.
     </td>
   <td width="50%" valign="top">
