@@ -104,13 +104,13 @@
   <tr>
     <td width="50%" valign="top">
       <b>🛡️ Anti-Drone System (TESA TOP GUN 2025)</b><br>
-      <a href="https://github.com/Ampsoria/Anti-Drone" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> 
+      <a href="https://github.com/AozoraSycro/TESA-Top-Gun-Rally-2025" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a> 
       <a href="https://youtu.be/CXnDO8Qoxrs?si=wJxJVbFlIcGvd_YX" target="_blank"><img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a><br><br>
       ร่วมทำงานเป็นทีมพัฒนาระบบตรวจจับภัยคุกคามแบบ Real-time ด้วย YOLOv8 และ React Dashboard <b>หน้าที่หลักของผม:</b> พัฒนาอัลกอริทึมควบคุมการบินอัตโนมัติด้วย <b>MATLAB</b> เพื่อประมวลผลพิกัด GPS และเข้าสกัดกั้นเป้าหมาย
     </td>
      <td width="50%" valign="top">
-      <b>🛒 ระบบ POS สำหรับร้านขายอุปกรณ์การเรียน</b><br>
-      <a href="https://github.com/AozoraSycro/POS_Store" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
+      <b>🛒 LearnVentoryHub_System</b><br>
+      <a href="https://github.com/AozoraSycro/LearnVentoryHub_System" target="_blank"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a><br><br>
       พัฒนาระบบ Point of Sale (POS) และระบบจัดการคลังสินค้าแบบ Full-cycle มีการออกแบบ Relational Database เพื่อจัดการข้อมูลสินค้าคงคลังและบันทึกประวัติการทำธุรกรรม (Transaction Data) ได้อย่างมีประสิทธิภาพ
     </td>
   </tr>
