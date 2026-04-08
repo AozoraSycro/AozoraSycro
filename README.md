@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aozorasycro.github.io/Portfolio/index.html" target="_blank">
+  <a href="https://aozorasycro.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_View_My_Web_Portfolio-00ADD8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Portfolio" />
   </a>
 </p>
@@ -146,7 +146,7 @@
 
 <div align="center">
   <br>
-  <a href="https://aozorasycro.github.io/Portfolio/index.html" target="_blank">
+  <a href="https://aozorasycro.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Web_Portfolio-00ADD8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Portfolio" />
   </a>
   <a href="mailto:nontapatboonsup@gmail.com">
