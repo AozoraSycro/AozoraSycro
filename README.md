@@ -142,6 +142,7 @@
 - **University Email:** [661762@hcu.ac.th](mailto:661762@hcu.ac.th)
 - **Line ID:** [oakkykung](line://ti/p/~oakkykung)
 - **University:** [Huachiew Chalermprakiet University](https://www.hcu.ac.th)
+- **Tel:** 061-550-3344
 
 <div align="center">
   <br>
